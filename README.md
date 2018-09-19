@@ -1,6 +1,5 @@
-# Vulnerability Categotries Analysis
+# Game-Contract-Security
 
 
-Known Ethereum Smart Contract Vulnerability Catergory Collection - LianAn Technology
+Blockchain Game security-relevant analysis（关于区块链游戏合约安全类问题）
 
-This column contains the known vulnerability categories of Ethereum smart contracts collected by LianAn Tech Team, inclding practical cases. 
